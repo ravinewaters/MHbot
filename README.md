@@ -1,0 +1,4 @@
+MHbot
+=====
+
+Bot for Mousehunt
